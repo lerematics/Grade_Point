@@ -1,0 +1,1 @@
+A code that basically calculates and gets the Grade Point (GP) of a student iterating over the number of courses offered, scores attained and total units; using University of Ilorin's pattern.
